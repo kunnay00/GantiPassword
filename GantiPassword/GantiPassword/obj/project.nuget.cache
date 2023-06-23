@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xz5d/vSsv1KDdtpxI5oHuK4o4H/tcuEhMBkfz6DfX5JL49FHcd3DtgYGAA6uh1+R5M5Zdgv9OeiOVyoFLsW8SA==",
+  "success": true,
+  "projectFilePath": "D:\\Cool_yeah\\PBO\\TugasPBO\\GantiPassword\\GantiPassword\\GantiPassword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
